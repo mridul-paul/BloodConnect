@@ -1,0 +1,17 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Compiled Java files
+*.class
+out/
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# SQLite temporary files
+*.db-journal
+*.db-shm
+*.db-wal
